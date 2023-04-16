@@ -1,0 +1,12 @@
+pierogi ruskie;18; twarog, ziemniaki i cebula;
+pierogi z kapusta i grzybami;18; kapusta z lesnymi grzybami;
+pierogi miesne;18; wieprzowina, indyk, kurczak;
+pierogi z twarogiem na slodko;18; twarog z miodem;
+pierogi jagodowe z twarogiem;18; jagody lesne i twarog;
+pierogi malinowe z twarogiem;18; swieze maliny i twarog;
+pierogi szpinakowo-serowe;19; szpinak, ser feta, orzechy wloskie prazone;
+pierogi weganskie;19; soczewica, ciecierzyca, marchew, imbir, orzechy wloskie, chili;
+pierogi jagodowe;19; jagody lesne;
+pierogi malinowe;19; swieze maliny;
+pierogi jablkowo-migdalowe;19; jablko, prazone migdaly, kasza jaglana, wanilia;
+pierogi z dziczyzna;22; dziczyzna, marchew, pietruszka, seler, cebula;

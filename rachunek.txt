@@ -1,0 +1,10 @@
+ --------- Zamowienie klienta Konrad ---------
+Numer stolika 3
+
+ Czas oczekiwania na zamowienie - 20 minut
+
+Zawartosc zamowienia:
+------------------------------------------------
+pierogi z kapusta i grzybami   |   18 PLN
+------------------------------------------------
+Podliczona cena za zamowienie:    18 PLN
